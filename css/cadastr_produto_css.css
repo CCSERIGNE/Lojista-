@@ -1,0 +1,59 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29/04/2018, 02:53:20
+    Author     : SERGIO_HACKER
+*/
+
+#div_pri_produto
+{
+    border-radius: 10px 10px ;
+    border: 1px solid;
+    position: relative ; 
+    margin-top: 50px;
+    margin-left: 200px;
+    width: 70%;
+     box-shadow: 05px  05px 05px  05px ;          
+    
+    border-radius: 12px 12px 12px 12px ; 
+
+}
+
+#btn_carregar_image
+{
+    margin-top: 50px;
+    margin-left: 250px;
+}
+
+#div_bt_carrega_imag{
+    float: right;
+    margin: 0px;
+    margin-bottom: 100px;
+}
+
+#select_tamanho
+{
+    width: 20%;
+}
+
+#img_produto_cadastrado
+{
+    width: 50%;
+    float: left;
+    margin-top: 10px;   
+    margin-left: 50px;
+}
+
+#nome_produto{
+    width: 80%;
+    margin-left: 150px;
+}
+
+#preco{
+    width: 50%;
+    margin-left: 15px;
+}
+

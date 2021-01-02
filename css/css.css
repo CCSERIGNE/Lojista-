@@ -1,0 +1,144 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11/04/2018, 17:06:17
+    Author     : SERGIO_HACKER
+*/
+#div_login
+{
+    height: 50%;
+    margin:0 auto;
+    margin-top: 10px;
+    border: 1px solid;
+    box-shadow: 05px  05px 05px  05px ;          
+    
+    border-radius: 12px 12px 12px 12px ; 
+    
+}
+
+#form_client_login  
+{
+    margin-top: 50px;
+}
+
+#div_cadastre_novo_cliente
+{
+    height: 60%;
+    margin:0 auto;
+    margin-top: 50px;
+    border: 1px solid;
+    box-shadow: 05px  05px 05px  05px ;          
+    border-radius: 12px 12px 12px 12px ; 
+    
+} 
+#div_proximo_etapa_cadast_novo_client           
+{
+    height: 70%;
+    margin:0 auto;
+    margin-top: 50px;
+    border: 1px solid;
+    box-shadow: 05px  05px 05px  05px ;          
+    border-radius: 12px 12px 12px 12px ; 
+                                   
+}
+
+#div_header
+{
+    margin-left: 50px; 
+    border: 1px solid;
+    width: 20%;
+    margin-top: 15px;
+    box-shadow: 10px, 12px;
+    border-radius: 12px;
+    
+}
+#div_header #label1
+{
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 1px solid;
+   
+}
+#div_header #label2
+{
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 1px solid;
+    border-top: 1px solid;
+}
+#div_header #label3
+{
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 1px solid;
+}
+/*espaçe   page principal;*/    
+
+#div_opcao
+{
+    width:800px;
+    margin:0 auto;
+    margin-top: 15px;
+}
+
+#icon
+{
+    width: 450px;
+    height: 30%;
+    margin-top: 5px;
+    margin-left: 50px;
+    box-shadow: 03px 03px 03px ;                   
+    margin-right: 50px;
+    margin-bottom: 100px;
+}
+#client
+{
+    width: 300px;
+    height: 20%;
+    box-shadow:  03px  03px  03px;
+    margin: 0px;
+}
+#loja
+{
+    width: 300px;
+    height: 20%;
+    box-shadow:  03px  03px  03px;
+    margin: 0px;
+}
+#bt_loja
+{
+    width: 50%;
+    text-align: center;
+}
+#bt_cliente{
+    width: 50%;
+    text-align: center;
+}
+
+#tabela_produto
+{
+    margin-top: 50px;
+    width: 80%;
+}
+#form_cadast_novo_client
+{
+    margin-top: 50px; 
+}
+
+#email_cadast_novo_cliente    
+{
+    margin-top: 10px;
+}
+
+#form_proxim_etape_cadas_nov0_client
+{
+    margin-top: 50px;
+}
+
+#form_proxim_etape_cadas_nov0_client  #nome_client
+{
+    margin-top: 10px;
+}
